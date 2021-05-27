@@ -24,4 +24,5 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-
+<p>TO have a preview of the project :
+  <a href="https://fauziya8421.github.io/web_dev_cool_portfoilo/">Click here</a></p>
